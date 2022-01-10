@@ -3,8 +3,6 @@
 #+description: 
 #+filetags: blogging
 
-* Hello, World!
-
 This is the first post for this new corner of the Web (doesn’t that sound just too, too 1990s?).
 
 We shut down all of our old, Wordpress-based blogs about a year ago (just why will be a topic for another day) intending to fire them back up with some lighter-weight, open-source solution.
