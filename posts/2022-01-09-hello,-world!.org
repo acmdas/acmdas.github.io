@@ -1,0 +1,18 @@
+#+title: Hello, World!
+#+date: <2022-01-09 21:42>
+#+description: 
+#+filetags: blogging
+
+* Hello, World!
+
+This is the first post for this new corner of the Web (doesn’t that sound just too, too 1990s?).
+
+We shut down all of our old, Wordpress-based blogs about a year ago (just why will be a topic for another day) intending to fire them back up with some lighter-weight, open-source solution.
+
+Well, those were the good intentions and we spent the rest of 2021 “paving the road to Hell” with those good intentions. Not really, we just got busy doing other things and didn’t get around to it.
+
+Well, I got a friendly boot in the butt last Friday and here we are! I had a spare domain sitting around, “dasmith.xyz” and had been planning to play around with the Emacs-based org-static-blog package, and that boot was just enough to get things started.
+
+More about the tech side of this is another topic for another day. As it is, it’s getting late and I’m keen on closing this down and hitting “Publish” and see what happens.
+
+Bye for now.
