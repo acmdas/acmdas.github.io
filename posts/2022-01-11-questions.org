@@ -1,0 +1,6 @@
+#+title: Questions
+#+date: <2022-01-11 13:25>
+#+description: 
+#+filetags: totd feynman
+
+“I would rather have questions that can’t be answered than answers that can’t be questioned.”—Richard P. Feynman
