@@ -1,6 +1,6 @@
 #+title: A Strange Superstition
 #+date: <2022-01-16 13:58>
 #+description: 
-#+filetags: totd
+#+filetags: totd foreign
 
 “The strange superstition has arisen in the Western world that we can start all over again, remaking human nature, human society, and the possibilities of happiness, as though the knowledge and experience of our ancestors were now entirely irrelevant.”—Sir Roger Scruton, /Becoming a Family/, [[https://www.city-journal.org/html/becoming-family-11806.html][City Journal]], Spring, 2001
