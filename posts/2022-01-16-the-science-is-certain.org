@@ -3,4 +3,4 @@
 #+description: 
 #+filetags: totd feynman
 
-“If you thought that science was certain — well, that is just an error on your part.”—Richard P. Feynman, The Quotable Feynman, p. 349, Princeton University Press
+“If you thought that science was certain — well, that is just an error on your part.”—Richard P. Feynman, /The Quotable Feynman/, p. 349, Princeton University Press
