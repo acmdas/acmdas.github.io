@@ -1,0 +1,43 @@
+#+title: What is Truth?
+#+date: <2022-01-23 13:26>
+#+description: 
+#+filetags: truth
+
+“What is Truth?”—Pontius Pilate, Roman Prefect/Procurator of Palestine, 26-36 Anno Domini, quoted in John 18:38.
+
+Pilate gets a bad rap for asking, but in truth, “truth” is complicated. My primary dictionaries, the 1913 /Webster’s Revised Unabridged/ of 1913 and the /Oxford Universal/ of 1933 agree on four primary meanings (the following from the /Webster’s/ with examples removed):
+
+Truth \Truth\, n.; pl. {Truths}. [OE. treuthe, trouthe, treowpe,
+     AS. tre['o]w?. See {True}; cf. {Troth}, {Betroth}.]
+     1. The quality or being true; as:
+        (a) Conformity to fact or reality; exact accordance with
+            that which is, or has been; or shall be.
+        (b) Conformity to rule; exactness; close correspondence
+            with an example, mood, object of imitation, or the
+            like.
+        (c) Fidelity; constancy; steadfastness; faithfulness.
+        (d) The practice of speaking what is true; freedom from
+            falsehood; veracity.
+     2. That which is true or certain concerning any matter or
+        subject, or generally on all subjects; real state of
+        things; fact; verity; reality.
+     3. A true thing; a verified fact; a true statement or
+        proposition; an established principle, fixed law, or the
+        like; as, the great truths of morals.
+     4. Righteousness; true religion.
+  
+Very interesting (or maybe not at all interesting), but just why is this Sunday the day to bring up dictionaries and definitions of grand, overarching theoretical notions like “truth”?
+
+Fair question. My point – and I do have one — is that I fiddled about with the tech to get this little corner of the Internet (as we used to say in the early ‘90s) two weeks ago and have said “Hello”, described the tech that I fiddled about with and dropped a few pithy quotes. Now what? What are we doing here? Will it be more of the same — a bit of technology, some brief quotes with no commentary, just a little of this and some of that? Or is there going to be a theme?
+
+A theme — that’s the ticket! Truth would make a dandy theme — telling the truth (as I see it) about technology, dropping quotes that seem to be truthful, yes. And probably deeper into the weeds. That definition suggests that there’s a lot of leeway in truth as a topic: what are the facts; what is reality — really — what is, or has been, or shall be; what actually is conformity to — whatever; what does fidelity, constancy, steadfastness and faithrulness demand; and what are we called upon to speak — how do we avoid falseness?
+
+Is that too pompous? Looking at the /Websters/ again, there’s certainly some risk of pomposity in the second definition — we’ll have to be careful:
+
+Pompous \Pomp"ous\, a. [F. pompeux, L. pomposus. See {Pomp}.]
+     1. Displaying pomp; stately; showy with grandeur;
+        magnificent; as, a pompous procession.
+     2. Ostentatious; pretentious; boastful; vainlorious; as,
+        pompous manners; a pompous style.
+
+On the other hand, it’s certainly something to aspire to — bringing a little truth into the discussion. We’ll just have to wait and see.
