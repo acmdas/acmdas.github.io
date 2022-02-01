@@ -1,0 +1,37 @@
+#+title: What is Falsehood?
+#+date: <2022-02-01 13:08>
+#+description: 
+#+filetags: truth
+
+“All generalizations are false, including this one.”—Mark Twain
+
+If Truth is “in conformity to fact or reality”, there must be something /not/ in conformity to fact or reality. And of course there is:
+
+Falsehood \False"hood\, n. [False + -hood]
+   1. Want of truth or accuracy; an untrue assertion or
+      representation; error; misrepresentation; falsity.
+   2. A deliberate intentional assertion of what is known to be
+      untrue; a departure from moral integrity; a lie.
+   3. Treachery; deceit; perfidy; unfaithfulness.
+   4. A counterfeit; a false appearance; an imposture.
+   Syn: Falsity; lie; untruth; fiction; fabrication.
+
+And, like truth, there’s a lot of weeds to get into regarding falsehood. Oh, it doesn’t always have to be complicated. In software development, for instance, we use Boolean or bivalent logic to determine whether a value is, say, equal to or greater than 100. If it is, the answer is “true” (or 1 in computer speak) and if it isn’t, it’s “false” (or 0). Very straightforward and clean.
+
+Once we introduce a human into the mix, though, it gets complicated very quickly. Ask a person an equally straightforward question — say, “Do you have twenty dollars with you?” and the reply is “No”. If the answer, whether it’s “yes” or “no” is true, accurate, “in conformity to fact or reality” we’ve arrived at end of story.
+
+However, if the answer is not true, not “in conformity to fact or reality” things get a bit more complicated. If we got an inaccurate reply in the computer example, that’s an error and our code is faulty or there’s a hardware issue. However, if our friend did have twenty dollars and said “no”, or didn’t and said “yes”, then there are several possibilities.
+
+A simple mistake is one — definition 1. above. She left home with $35 and bought a $15 book before we met up. That leaves $20 in her mind, but she forgot sales tax and that $20 is actually $18.45. Or, she may believe that we’ll think less of her if she’s not carrying at least $20 dollar, so she says that she does when she knows that she doesn’t. In other words, we’ve been lied to — definition 2.
+
+More complicated than simple Boolean logic, but still fairly straightforward. Of course, because we’ve introduced humans into the picture, there are additional complications. For example, there’s the classic “Does this dress make my butt look big” or “Am I too old to be playing rock ‘n’ roll?” Of course, if you’re being asked either the answer may well be “Yes”, and a “No” answer may either be simple truth or a straightforward lie. The complication with the lie will have to do at least in part with motivation — a lie to avoid hurting someone’s feelings with no other consequences isn’t quite the same as an identical lie to harm the other person. Lies are complicated enough to deserve further exploration.
+
+“Want of truth” and “an untrue assertion” in the definition eventually sends us back to the definition of “true”, which includes much more than “in conformity to fact or reality.” It also includes “conformity to rule”, “that which is true or certain concerning any matter or subject”, and “righteousness; true religion”.
+
+These aspects of “truth” bring in context — truth in “conformity to rule” depends on which rule. Dribbling the ball is required in basketball, an error in American football.
+
+“That which is true or certain concerning any matter or subject” depends on the subject. A true statement about gravity when the subject is Newtonian physics is false if the subject is switched to Einsteinean physics.
+
+And, of course, “Righteousness; true religion” depends not only upon which religion, but which sect within a given religion.
+
+So, it looks like, before we can get down and dirty with saying things that conform with reality, we may need to explore the various aspects of not-truth.
