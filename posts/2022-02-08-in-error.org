@@ -1,0 +1,10 @@
+#+title: In Error
+#+date: <2022-02-08 16:16>
+#+description: 
+#+filetags: truth
+
+“The first principle is that you must not fool yourself and you are the easiest person to fool.”—Richard P. Feynman
+
+The first definition of falsehood (or Not Truth) in [[https://www.dasmith.xyz/2022-01-30-what-is-falsehood.html][last week’s post]] is: “Want of truth or accuracy; an untrue assertion or representation; error; misrepresentation; falsity.” This is simple error, free of dishonesty, evil intent or fabrication. I think I’m telling you (or myself) the truth, but I’m not.
+
+

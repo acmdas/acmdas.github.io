@@ -1,0 +1,46 @@
+2 definitions found
+
+From The Collaborative International Dictionary of English v.0.48 [gcide]:
+
+  Falsehood \False"hood\, n. [False + -hood]
+     1. Want of truth or accuracy; an untrue assertion or
+        representation; error; misrepresentation; falsity.
+        [1913 Webster]
+  
+              Though it be a lie in the clock, it is but a
+              falsehood in the hand of the dial when pointing at a
+              wrong hour, if rightly following the direction of
+              the wheel which moveth it.            --Fuller.
+        [1913 Webster]
+  
+     2. A deliberate intentional assertion of what is known to be
+        untrue; a departure from moral integrity; a lie.
+        [1913 Webster]
+  
+     3. Treachery; deceit; perfidy; unfaithfulness.
+        [1913 Webster]
+  
+              Betrayed by falsehood of his guard.   --Shak.
+        [1913 Webster]
+  
+     4. A counterfeit; a false appearance; an imposture.
+        [1913 Webster]
+  
+              For his molten image is falsehood.    --Jer. x. 14.
+        [1913 Webster]
+  
+              No falsehood can endure
+              Touch of celestial temper.            --Milton.
+  
+     Syn: Falsity; lie; untruth; fiction; fabrication. See
+          {Falsity}.
+          [1913 Webster]
+
+From WordNet (r) 3.0 (2006) [wn]:
+
+  falsehood
+      n 1: a false statement [syn: {falsehood}, {falsity}, {untruth}]
+           [ant: {true statement}, {truth}]
+      2: the act of rendering something false as by fraudulent changes
+         (of documents or measures etc.) or counterfeiting [syn:
+         {falsification}, {falsehood}]

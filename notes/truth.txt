@@ -1,0 +1,115 @@
+3 definitions found
+
+From The Collaborative International Dictionary of English v.0.48 [gcide]:
+
+  Truth \Truth\, n.; pl. {Truths}. [OE. treuthe, trouthe, treowpe,
+     AS. tre['o]w?. See {True}; cf. {Troth}, {Betroth}.]
+     1. The quality or being true; as:
+        (a) Conformity to fact or reality; exact accordance with
+            that which is, or has been; or shall be.
+            [1913 Webster]
+        (b) Conformity to rule; exactness; close correspondence
+            with an example, mood, object of imitation, or the
+            like.
+            [1913 Webster]
+  
+                  Plows, to go true, depend much on the truth of
+                  the ironwork.                     --Mortimer.
+            [1913 Webster]
+        (c) Fidelity; constancy; steadfastness; faithfulness.
+            [1913 Webster]
+  
+                  Alas! they had been friends in youth,
+                  But whispering tongues can poison truth.
+                                                    --Coleridge.
+            [1913 Webster]
+        (d) The practice of speaking what is true; freedom from
+            falsehood; veracity.
+            [1913 Webster]
+  
+                  If this will not suffice, it must appear
+                  That malice bears down truth.     --Shak.
+            [1913 Webster]
+  
+     2. That which is true or certain concerning any matter or
+        subject, or generally on all subjects; real state of
+        things; fact; verity; reality.
+        [1913 Webster]
+  
+              Speak ye every man the truth to his neighbor.
+                                                    --Zech. viii.
+                                                    16.
+        [1913 Webster]
+  
+              I long to know the truth here of at large. --Shak.
+        [1913 Webster]
+  
+              The truth depends on, or is only arrived at by, a
+              legitimate deduction from all the facts which are
+              truly material.                       --Coleridge.
+        [1913 Webster]
+  
+     3. A true thing; a verified fact; a true statement or
+        proposition; an established principle, fixed law, or the
+        like; as, the great truths of morals.
+        [1913 Webster]
+  
+              Even so our boasting . . . is found a truth. --2
+                                                    Cor. vii. 14.
+        [1913 Webster]
+  
+     4. Righteousness; true religion.
+        [1913 Webster]
+  
+              Grace and truth came by Jesus Christ. --John i. 17.
+        [1913 Webster]
+  
+              Sanctify them through thy truth; thy word is truth.
+                                                    --John xvii.
+                                                    17.
+        [1913 Webster]
+  
+     {In truth}, in reality; in fact.
+  
+     {Of a truth}, in reality; certainly.
+  
+     {To do truth}, to practice what God commands.
+        [1913 Webster]
+  
+              He that doeth truth cometh to the light. --John iii.
+                                                    21.
+        [1913 Webster]
+
+From The Collaborative International Dictionary of English v.0.48 [gcide]:
+
+  Truth \Truth\, v. t.
+     To assert as true; to declare. [R.]
+     [1913 Webster]
+  
+           Had they [the ancients] dreamt this, they would have
+           truthed it heaven.                       --Ford.
+     [1913 Webster]
+
+From WordNet (r) 3.0 (2006) [wn]:
+
+  truth
+      n 1: a fact that has been verified; "at last he knew the truth";
+           "the truth is that he didn't want to do it"
+      2: conformity to reality or actuality; "they debated the truth
+         of the proposition"; "the situation brought home to us the
+         blunt truth of the military threat"; "he was famous for the
+         truth of his portraits"; "he turned to religion in his search
+         for eternal verities" [syn: {truth}, {the true}, {verity},
+         {trueness}] [ant: {falseness}, {falsity}]
+      3: a true statement; "he told the truth"; "he thought of
+         answering with the truth but he knew they wouldn't believe
+         it" [syn: {truth}, {true statement}] [ant: {falsehood},
+         {falsity}, {untruth}]
+      4: the quality of being near to the true value; "he was
+         beginning to doubt the accuracy of his compass"; "the lawyer
+         questioned the truth of my account" [syn: {accuracy},
+         {truth}] [ant: {inaccuracy}]
+      5: United States abolitionist and feminist who was freed from
+         slavery and became a leading advocate of the abolition of
+         slavery and for the rights of women (1797-1883) [syn:
+         {Truth}, {Sojourner Truth}]
