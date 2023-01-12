@@ -4,7 +4,23 @@
 <title><![CDATA[David's Ramblings]]></title>
 <description><![CDATA[David's Ramblings]]></description>
 <link>https://www.dasmith.xyz/</link>
-<lastBuildDate>Thu, 12 Jan 2023 14:36:29 -0500</lastBuildDate>
+<lastBuildDate>Thu, 12 Jan 2023 14:51:46 -0500</lastBuildDate>
+<item>
+  <title><![CDATA[About Us]]></title>
+  <description><![CDATA[
+<p>
+This is a logical follow-on to years of noodling with hand-made sites in the early ‘90s, evolving into Wordpress sites that gradually got annoying (Wordpress, not the sites, at least not to me) that gave me a place to stash pithy quotes, clever asides and the occasional rant or essay.
+</p>
+
+<p>
+It’s also a way to have yet another part of my digital world driven by emacs, specifically Bastian Bechtold’s org-static-blog.
+</p>
+<div class="taglist"><a href="https://www.dasmith.xyz/tags.html">Tags</a>: <a href="https://www.dasmith.xyz/tag-about.html">about</a> </div>]]></description>
+  <category><![CDATA[about]]></category>
+  <link>https://www.dasmith.xyz/about.html</link>
+  <guid>https://www.dasmith.xyz/about.html</guid>
+  <pubDate>Thu, 12 Jan 2023 14:46:00 -0500</pubDate>
+</item>
 <item>
   <title><![CDATA[I'm Back!]]></title>
   <description><![CDATA[

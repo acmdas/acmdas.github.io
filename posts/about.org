@@ -1,0 +1,8 @@
+#+title: About Us
+#+date: <2023-01-12 14:46>
+#+description: the expected “about” page
+#+filetags: about
+
+This is a logical follow-on to years of noodling with hand-made sites in the early ‘90s, evolving into Wordpress sites that gradually got annoying (Wordpress, not the sites, at least not to me) that gave me a place to stash pithy quotes, clever asides and the occasional rant or essay.
+
+It’s also a way to have yet another part of my digital world driven by emacs, specifically Bastian Bechtold’s org-static-blog.
