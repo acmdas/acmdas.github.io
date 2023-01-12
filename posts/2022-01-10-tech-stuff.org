@@ -13,7 +13,7 @@ Emacs is perhaps the oldest “programmer’s text editor” in current use — 
 
 I’ve used it off-and-on since the late ‘80s and I’ve done most of my writing with it since I retired (and no longer had to deliver work in Microsoft Word format!).
 
-It’s not a “word processor” in the sense that it’s mainly just for putting letters “on the page” or into a file, although there are ways to suggest that the letters be bold, italic and the like. It’s frequently used ot prepare text for publication by adding codes to the text that other tools interpret to then output “camera-ready copy”. And that’s about as far into the weeds as I’m willing to go on that topic just now. You’re welcome!
+It’s not a “word processor” in the sense that it’s mainly just for putting letters “on the page” or into a file, although there are ways to suggest that the letters be bold, italic and the like. It’s frequently used to prepare text for publication by adding codes to the text that other tools interpret to then output “camera-ready copy”. And that’s about as far into the weeds as I’m willing to go on that topic just now. You’re welcome!
 
 I also mentioned “org-static-blog” which highlights another side of Emacs, which is that it’s not only used to write software programs, but it’s also an environment for running software programs. In fact, it’s been, only partly facetiously, called an operating system that can also be used as a text editor.
 
