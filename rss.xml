@@ -4,7 +4,19 @@
 <title><![CDATA[David's Ramblings]]></title>
 <description><![CDATA[David's Ramblings]]></description>
 <link>https://www.dasmith.xyz/</link>
-<lastBuildDate>Mon, 28 Mar 2022 17:05:15 -0400</lastBuildDate>
+<lastBuildDate>Thu, 12 Jan 2023 14:36:29 -0500</lastBuildDate>
+<item>
+  <title><![CDATA[I'm Back!]]></title>
+  <description><![CDATA[
+<p>
+Yes, I’m back - yes, I know it’s been close to a year. There is a reason—actually several reasons over and above my tendancy to put things off. There will be some explanation and some catch-up, but not today. Not that long ago I reinstalled my accustomed OS, rebuilt emacs and rewrote my init.el, and am today getting some gitting caught up. So, the test I’m referring to is whether org-static-blog is dtrt, whether I can push to gist. Typing is hard with fingers crossed, so that’s it for now.
+</p>
+<div class="taglist"><a href="https://www.dasmith.xyz/tags.html">Tags</a>: <a href="https://www.dasmith.xyz/tag-testing.html">testing</a> </div>]]></description>
+  <category><![CDATA[testing]]></category>
+  <link>https://www.dasmith.xyz/2023-01-12-i'm-back!.html</link>
+  <guid>https://www.dasmith.xyz/2023-01-12-i'm-back!.html</guid>
+  <pubDate>Thu, 12 Jan 2023 14:29:00 -0500</pubDate>
+</item>
 <item>
   <title><![CDATA[Does it Matter?]]></title>
   <description><![CDATA[
