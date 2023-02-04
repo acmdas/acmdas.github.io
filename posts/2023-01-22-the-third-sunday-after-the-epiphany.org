@@ -1,7 +1,7 @@
 #+title: The Third Sunday after the Epiphany
 #+date: <2023-01-22 10:23>
 #+description: 
-#+filetags: litany
+#+filetags: liturgy
 
 The Third Sunday after the Epiphany
 
