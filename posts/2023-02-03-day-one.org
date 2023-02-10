@@ -1,6 +1,6 @@
 #+title: Day One
 #+date: <2023-02-03 18:05>
-#+description: Nine Days of Prayer for one Decease
+#+description: Nine Days of Prayer for one Deceased
 #+filetags: prayer
 
 Nine Days of Prayer for One Deceased — Day One
