@@ -4,7 +4,83 @@
 <title><![CDATA[David's Ramblings]]></title>
 <description><![CDATA[David's Ramblings]]></description>
 <link>https://www.dasmith.xyz/</link>
-<lastBuildDate>Tue, 21 Feb 2023 12:53:10 -0500</lastBuildDate>
+<lastBuildDate>Tue, 21 Feb 2023 15:03:21 -0500</lastBuildDate>
+<item>
+  <title><![CDATA[Shrove Tuesday]]></title>
+  <description><![CDATA[
+<p>
+Shrove Tuesday/Shrovetide
+</p>
+
+<p>
+Shrove \Shrove\,
+     imp. of {Shrive}.
+     [1913 Webster]
+</p>
+
+<p>
+{Shrove Sunday}, Quinguagesima Sunday.
+</p>
+
+<p>
+{Shrove Tuesday}, the Tuesday following Quinguagesima Sunday,
+   and preceding the first day of Lent, or Ash Wednesday.
+</p>
+
+<p>
+Note: It was formerly customary in England, on this day, for
+      the people to confess their sins to their parish
+      priests, after which they dined on pancakes, or
+      fritters, and the occasion became one of merriment. The
+      bell rung on this day is popularly called Pancake Bell,
+      and the day itself Pancake Tuesday. &#x2013;P. Cyc.
+      [1913 Webster]
+</p>
+
+<p>
+Shrive \Shrive\, v. t. [imp. {Shrived}or {Shrove}; p. p.
+     {Shriven}or {Shrived}; p. pr. &amp; vb. n. {Shriving}.] [OE.
+     shriven, schriven, AS. scr[imac]van to shrive, to impose
+     penance or punishment; akin to OFries. skr[imac]va to impose
+     punishment; cf. OS. biskr[imac]ban to be troubled. Cf.
+     {Shrift}, {Shrovetide}.]
+</p>
+<ol class="org-ol">
+<li><p>
+To hear or receive the confession of; to administer
+confession and absolution to; &#x2013; said of a priest as the
+agent.
+</p>
+
+<p>
+That they should shrive their parishioners. &#x2013;Piers
+				      Plowman.
+</p>
+
+<p>
+Doubtless he shrives this woman, . . .
+Else ne&rsquo;er could he so long protract his speech.
+				      &#x2013;Shak.
+</p>
+
+<p>
+Till my guilty soul be shriven.       &#x2013;Longfellow.
+</p></li>
+
+<li><p>
+To confess, and receive absolution; &#x2013; used reflexively.
+</p>
+
+<p>
+Get you to the church and shrive yourself. &#x2013;Beau. &amp; Fl.
+</p></li>
+</ol>
+<div class="taglist"><a href="https://www.dasmith.xyz/tags.html">Tags</a>: <a href="https://www.dasmith.xyz/tag-lent.html">Lent</a> </div>]]></description>
+  <category><![CDATA[Lent]]></category>
+  <link>https://www.dasmith.xyz/2023-02-21-shrove-tuesday.html</link>
+  <guid>https://www.dasmith.xyz/2023-02-21-shrove-tuesday.html</guid>
+  <pubDate>Tue, 21 Feb 2023 14:55:00 -0500</pubDate>
+</item>
 <item>
   <title><![CDATA[The Sunday Called Quinquagesima]]></title>
   <description><![CDATA[
@@ -989,38 +1065,6 @@ It’s also a way to have yet another part of my digital world driven by emacs, 
   <link>https://www.dasmith.xyz/about.html</link>
   <guid>https://www.dasmith.xyz/about.html</guid>
   <pubDate>Mon, 10 Jan 2022 14:46:00 -0500</pubDate>
-</item>
-<item>
-  <title><![CDATA[Hello, World!]]></title>
-  <description><![CDATA[
-<p>
-This is the first post for this new corner of the Web (doesn’t that sound just too, too 1990s?).
-</p>
-
-<p>
-We shut down all of our old, Wordpress-based blogs about a year ago (just why will be a topic for another day) intending to fire them back up with some lighter-weight, open-source solution.
-</p>
-
-<p>
-Well, those were the good intentions and we spent the rest of 2021 “paving the road to Hell” with those good intentions. Not really, we just got busy doing other things and didn’t get around to it.
-</p>
-
-<p>
-Well, I got a friendly boot in the butt last Friday and here we are! I had a spare domain sitting around, “dasmith.xyz” and had been planning to play around with the Emacs-based org-static-blog package, and that boot was just enough to get things started.
-</p>
-
-<p>
-More about the tech side of this is another topic for another day. As it is, it’s getting late and I’m keen on closing this down and hitting “Publish” and see what happens.
-</p>
-
-<p>
-Bye for now.
-</p>
-<div class="taglist"><a href="https://www.dasmith.xyz/tags.html">Tags</a>: <a href="https://www.dasmith.xyz/tag-blogging.html">blogging</a> </div>]]></description>
-  <category><![CDATA[blogging]]></category>
-  <link>https://www.dasmith.xyz/2022-01-09-hello,-world!.html</link>
-  <guid>https://www.dasmith.xyz/2022-01-09-hello,-world!.html</guid>
-  <pubDate>Sun, 09 Jan 2022 21:42:00 -0500</pubDate>
 </item>
 </channel>
 </rss>

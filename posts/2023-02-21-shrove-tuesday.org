@@ -1,0 +1,48 @@
+#+title: Shrove Tuesday
+#+date: <2023-02-21 14:55>
+#+description: 
+#+filetags: Lent
+
+Shrove Tuesday/Shrovetide
+
+Shrove \Shrove\,
+     imp. of {Shrive}.
+     [1913 Webster]
+  
+     {Shrove Sunday}, Quinguagesima Sunday.
+  
+     {Shrove Tuesday}, the Tuesday following Quinguagesima Sunday,
+        and preceding the first day of Lent, or Ash Wednesday.
+  
+     Note: It was formerly customary in England, on this day, for
+           the people to confess their sins to their parish
+           priests, after which they dined on pancakes, or
+           fritters, and the occasion became one of merriment. The
+           bell rung on this day is popularly called Pancake Bell,
+           and the day itself Pancake Tuesday. --P. Cyc.
+           [1913 Webster]
+
+Shrive \Shrive\, v. t. [imp. {Shrived}or {Shrove}; p. p.
+     {Shriven}or {Shrived}; p. pr. & vb. n. {Shriving}.] [OE.
+     shriven, schriven, AS. scr[imac]van to shrive, to impose
+     penance or punishment; akin to OFries. skr[imac]va to impose
+     punishment; cf. OS. biskr[imac]ban to be troubled. Cf.
+     {Shrift}, {Shrovetide}.]
+     1. To hear or receive the confession of; to administer
+        confession and absolution to; -- said of a priest as the
+        agent.
+  
+              That they should shrive their parishioners. --Piers
+                                                    Plowman.
+  
+              Doubtless he shrives this woman, . . .
+              Else ne'er could he so long protract his speech.
+                                                    --Shak.
+  
+              Till my guilty soul be shriven.       --Longfellow.
+  
+     2. To confess, and receive absolution; -- used reflexively.
+  
+              Get you to the church and shrive yourself. --Beau. & Fl.
+
+
