@@ -3,8 +3,6 @@
 #+description: 
 #+filetags: liturgy Lent
 
-Ash Wednesday, or the First Day of Lent
-
 ALMIGHTY and everlasting God, who hatest nothing that thou hast made, and dost forgive the sins of all those who are penitent; Create and make in us new and contrite hearts, that we, worthily lamenting our sins and acknowledging our wretchedness. may obtain of thee, the God of all mercy, perfect remission and forgiveness; through Jesus Christ our Lord. /Amen/.
 
 The Season is Lent, the liturgical color is Purple.
