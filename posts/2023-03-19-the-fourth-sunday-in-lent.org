@@ -1,4 +1,4 @@
-#+title: The Fourth Sunday in Lent
+#+title: The Fourth Sunday in Lent, known as Mothering Sunday
 #+date: <2023-03-19 12:33>
 #+description: 
 #+filetags: liturgy, Lent
