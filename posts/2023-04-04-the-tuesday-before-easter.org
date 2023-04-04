@@ -1,7 +1,7 @@
 #+title: The Tuesday Before Easter
 #+date: <2023-04-04 06:52>
 #+description: 
-#+filetags: litany, Lent
+#+filetags: liturgy, Lent
 
 O LORD God, whose blessed Son, our Saviour, gave his back to the smiters and hid not his face from shame; Grant us grace to take joyfully the sufferings of the present time, in full assurance of the glory that shall be revealed; through the same thy Son Jesus Christ our Lord. /Amen/.
 
