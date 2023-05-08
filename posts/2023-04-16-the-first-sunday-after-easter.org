@@ -1,7 +1,7 @@
 #+title: The First Sunday After Easter, Commonly Called Doubting Thomas Sunday
 #+date: <2023-04-16 09:29>
 #+description: 
-#+filetags: liturgy, Eastertide
+#+filetags: liturgy Eastertide
 
 ALMIGHTY Father, who hast given thine only Son to die for our sins, and to rise again for our justification; Grant us so to put away the leaven of malice and wickedness, that we may always serve thee in pureness of living and truth; through the merits of the same thy Son Jesus Christ our Lord. /Amen/.
 
