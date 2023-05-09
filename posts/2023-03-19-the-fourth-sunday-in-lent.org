@@ -1,7 +1,7 @@
 #+title: The Fourth Sunday in Lent, known as Mothering Sunday
 #+date: <2023-03-19 12:33>
 #+description: 
-#+filetags: liturgy, Lent
+#+filetags: liturgy Lent
 
 Grant, we beseech thee, Almighty God, that we, who for our evil deeds do worthily deserve to be punished, by the comfort of thy grace may mercifully be relieved; through our Lord and Saviour Jesus Christ. /Amen/.
 

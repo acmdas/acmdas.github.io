@@ -1,7 +1,7 @@
 #+title: The Friday Before Easter, Commonly Called Good Friday
 #+date: <2023-04-07 13:46>
 #+description: 
-#+filetags: liturgy, Lent
+#+filetags: liturgy Lent
 
 ALMIGHTY God, we beseech thee graciously to behold this thy family, for which our Lord Jesus Christ was contented to be betrayed, and given up into the hands of wicked men, and to suffer death upon the cross; who now liveth and reigneth with thee and the Holy Ghost ever, one God, world without end. /Amen/.
 

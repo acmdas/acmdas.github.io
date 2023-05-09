@@ -1,7 +1,7 @@
 #+title: Easter Wednesday
 #+date: <2023-04-12 11:29>
 #+description: 
-#+filetags: liturgy, Eastertide
+#+filetags: liturgy Eastertide
 
 O GOD, who makest us glad by the yearly solemnity of our Lord’s Resurrection: mercifully grant,that in keeping of these temporal feasts, we may hereafter attain to the joys of everlasting life. Through the same, our Lord Jesus Christ. /Amen/.
 

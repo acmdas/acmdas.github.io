@@ -1,7 +1,7 @@
 #+title: The Saturday Before Easter, Commonly Called Holy Saturday or Easter Even
 #+date: <2023-04-08 15:37>
 #+description: 
-#+filetags: liturgy, Lent
+#+filetags: liturgy Lent
 
 GRANT, O Lord, that as we are baptized into the death of thy blessed Son, our Saviour Jesus Christ, so by continual mortifying our corrupt affections we may be buried with him; and that through the grave, and gate of death, we may pass to our joyful resurrection; for his merits, who died, and was buried, and rose again for us, the same thy Son Jesus Christ our Lord. /Amen/.
 

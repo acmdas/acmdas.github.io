@@ -1,7 +1,7 @@
 #+title: The Fifth Sunday in Lent, Commonly Called Passion Sunday
 #+date: <2023-03-31 15:56>
 #+description: 
-#+filetags: liturgy, Lent
+#+filetags: liturgy Lent
 
 We beseech thee, Almighty God, mercifully to look upon thy people; that by thy great goodness they may be governed and preserved evermore, both in body and soul; through Jesus Christ our Lord. /Amen/.
 

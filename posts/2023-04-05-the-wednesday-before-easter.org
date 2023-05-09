@@ -1,7 +1,7 @@
 #+title: The Wednesday Before Easter
 #+date: <2023-04-05 08:31>
 #+description: 
-#+filetags: liturgy, Lent
+#+filetags: liturgy Lent
 
 ASSIST us mercifully with thy help, O Lord God of our salvation; that we may enter with joy upon the meditation of those mighty acts, whereby thou hast given unto us life and immortality; through Jesus Christ our Lord. /Amen/.
 
