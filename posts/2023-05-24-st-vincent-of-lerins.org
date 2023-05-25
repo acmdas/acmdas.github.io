@@ -1,0 +1,14 @@
+#+title: St Vincent of Lèrins
+#+date: <2023-05-24 16:55>
+#+description: 
+#+filetags: feasts
+
+Saint Vincent of Lérins, pseudonym Peregrinus, (born, possibly Toul, Belgica [now in France]—died c. 450; feast day May 24), Gallo-Roman saint, the chief theologian of the Abbey of Lérins, known especially for his heresiography Commonitoria (“Memoranda”).
+
+Early in the treatise he established his oft-quoted and influential principle on tradition as the test of orthodoxy—the true Catholic faith is that which has been “believed everywhere, always and by all.” This has been quoted often in support of Anglicanism’s claim to be a /via media/. Listen to Vincent’s voice on the subject:
+
+“I have often earnestly inquired of many holy and learned men how and by what sure and universal rule I may distinguish the truth of the Catholic faith from the falsehood of heresy. In almost every instance I have received this answer: All who wish to detect the frauds of heretics and to stay rooted in the Catholic faith must, with the Lord’s help, fortify their own belief in two ways: first by the authority of Scripture, and then, by the tradition of the Catholic Church.
+
+“Since the canon of Scripture is complete and more than sufficient of itself for everything, you might ask what need is there to join with it the authority of the church’s interpretation. For this reason: Because owing to the depth of holy Scripture, all do not accept it in one and the same sense. But one understands its words in one way, another differently, so that the Bible seems to be capable of as many interpretations as there are interpreters. Thus it is very necessary that the rule for the right understanding of the prophets and apostles should be framed in accordance with the standard ecclesiastical and Catholic interpretation.
+
+“ /Moreover, in the Catholic Church itself, all possible care must be taken that we hold that faith which has been believed everywhere, always and by all./ This rule we shall observe if we follow universality, antiquity and consent. We follow universality if we confess that one faith as true that the whole church throughout the world confesses. Antiquity, if we never depart from those interpretations manifestly held by our holy ancestors and fathers. Consent, if in antiquity itself, we adhere to the definitions and determinations held by all, or at least by almost all priests and teachers.”
