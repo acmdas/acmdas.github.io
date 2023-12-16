@@ -1,5 +1,5 @@
 #+title: The Second Sunday in Advent
-#+date: <2023-10-15 12:58>
+#+date: <2023-12-10 12:58>
 #+description: 
 #+filetags: liturgy Advent
 
