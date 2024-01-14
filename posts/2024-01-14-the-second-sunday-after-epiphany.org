@@ -1,4 +1,4 @@
-#+title: The Second Sunday in Epiphany
+#+title: The Second Sunday After Epiphany
 #+date: <2024-01-14 09:05>
 #+description: 
 #+filetags: liturgy Epiphany
