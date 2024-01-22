@@ -1,4 +1,4 @@
-#+title: The Third Sunday in Epiphany
+#+title: The Third Sunday after Epiphany
 #+date: <2024-01-21 06:55>
 #+description: 
 #+filetags: liturgy Epiphany
