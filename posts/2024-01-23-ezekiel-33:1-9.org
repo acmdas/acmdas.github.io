@@ -1,7 +1,7 @@
 #+title: Ezekiel 33:1-9
 #+date: <2024-01-23 12:43>
 #+description: 
-#+filetags: totd
+#+filetags: totd readings
 
 Again the word of the LORD came unto me, saying, Son of man, speak to the children of thy people, and say unto them, When I bring the sword upon a land, if the people of the land take a man of their coasts, and set him for their watchman: If when he seeth the sword come upon the land, he blow the trumpet, and warn the people; Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head. He heard the sound of the trumpet, and took not warning; his blood shall be upon him. But he that taketh warning shall deliver his soul.
 
