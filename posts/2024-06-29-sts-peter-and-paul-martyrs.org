@@ -1,8 +1,8 @@
 #+title: Sts Peter and Paul, Martyrs
-#+date: <2023-06-29 07:19>
+#+date: <2024-06-29 07:19>
 #+description: 
 #+filetags: feasts
 
 Almighty God, whose blessed apostles Peter and Paul glorified thee by their martyrdom: Grant that thy Church, instructed by their teaching and example, and knit together in unity by thy Spirit, may ever stand firm upon the one foundation, which is Jesus Christ our Lord;  who liveth and reigneth with thee, in the unity of the same Spirit, one God, for ever and ever, /Amen/.
 
-The Season is Trinity, the Liturgical Color is Red.
+The Season is Trinity, the Liturgical Color is /Red/.
