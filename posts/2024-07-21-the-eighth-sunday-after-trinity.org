@@ -1,5 +1,5 @@
 #+title: The Eighth Sunday After Trinity
-#+date: <2023-07-30 09:13>
+#+date: <2024-07-21 09:13>
 #+description: 
 #+filetags: liturgy Trinity
 
