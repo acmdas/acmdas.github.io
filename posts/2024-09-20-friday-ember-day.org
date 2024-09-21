@@ -1,7 +1,7 @@
 #+title: Friday Ember Day
 #+date: <2024-09-20 20:34>
 #+description: 
-#+filetags: liturgy Advent
+#+filetags: liturgy Trinity
 
  O ALMIGHTY God, who hast committed to the hands of men the ministry of reconciliation; We humbly beseech thee, by the inspiration of thy Holy Spirit, to put it into the hearts of many to offer themselves for this ministry; that thereby mankind may be drawn to thy blessed kingdom; through Jesus Christ our Lord. /Amen/.
 
