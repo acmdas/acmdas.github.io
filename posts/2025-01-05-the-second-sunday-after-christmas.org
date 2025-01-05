@@ -1,4 +1,4 @@
-#+title: The First Sunday After Christmas
+#+title: The Second Sunday After Christmas
 #+date: <2025-01-05 02:39>
 #+description: 
 #+filetags: liturgy Christmastide
