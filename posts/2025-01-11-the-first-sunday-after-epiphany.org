@@ -1,5 +1,5 @@
 #+title: The First Sunday After Epiphany
-#+date: <2025-01-11 16:37>
+#+date: <2025-01-12 16:37>
 #+description: 
 #+filetags: liturgy Epiphany
 
